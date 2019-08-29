@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Linux Distributions</string>
+    <string name="placeholder_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam lacus orci, dapibus id diam eu, condimentum dignissim orci. Proin cursus justo suscipit libero posuere, id lacinia justo ultrices. Nunc eu ante tempus, congue nisi ac, pulvinar lectus. Aliquam et porta massa. Proin iaculis tristique lorem, sit amet sodales elit imperdiet sit amet. Proin dignissim aliquam porta. In hac habitasse platea dictumst.\n Morbi ex nibh, ullamcorper pretium mi a, porttitor semper ipsum. Mauris cursus purus eget elit consectetur pharetra. Donec sollicitudin tempor porta. Praesent ut sapien commodo, euismod mauris quis, aliquet nisl. Duis libero elit, scelerisque sed lectus sit amet, vestibulum euismod leo. Sed ut arcu nibh. Curabitur a sodales tellus. Fusce ac urna aliquet risus efficitur finibus. Aenean feugiat massa nec ligula semper, vitae vehicula elit tempus.</string>
+    <string name="author_name">ADITYA RAHMAN</string>
+    <string name="author_email">adityarahman032@gmail.com</string>
+    <string name="latest_version">Latest version:</string>
+    <string name="placeholder_latest_version">Version</string>
+    <string name="placeholder_name">Distro name</string>
+</resources>
